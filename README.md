@@ -1,4 +1,4 @@
 # ssf
-Simple stateful firewall script made from the arch wiki instructions
+Simple stateful firewall script
 
 Pgp signature (emma@work)
