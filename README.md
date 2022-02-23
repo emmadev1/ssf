@@ -1,4 +1,3 @@
 # ssf
 Simple stateful firewall script
-
-The tar file contains the shell script and the pgp signature (emma@work)
+Pgp signature (emma@work)
