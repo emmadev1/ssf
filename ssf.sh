@@ -1,3 +1,5 @@
+#!/bin/bash
+
 iptables -N TCP
 iptables -N UDP
 iptables -P OUTPUT ACCEPT
